@@ -1,1 +1,2 @@
 # PrivAlert
+A Privacy AI Agent - Our Privacy AI Agent is designed to safeguard client information by detecting and preventing the unauthorized sharing of sensitive data. It actively monitors communications and, upon identifying potential risks, triggers an instant notification to the user. This proactive approach not only alerts the client to possible data breaches but also ensures that the information is never transmitted to unintended recipients, providing a robust layer of privacy protection.
