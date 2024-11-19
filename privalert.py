@@ -2,13 +2,10 @@ import streamlit as st
 from PIL import Image
 import base64
 import os
-from dotenv import load_dotenv
 from groq import Groq
 import logging
 import time
 
-# Load environment variables (if needed)
-load_dotenv()
 
 # Initialize Groq client with secrets
 client = Groq(api_key=st.secrets["general"]["api_key"])  # Use the API key from secrets
