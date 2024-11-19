@@ -1,0 +1,6 @@
+streamlit>=1.20.0
+Pillow>=9.3.0
+groq>=0.1.0  # Check for the latest version on PyPI
+python-dotenv>=0.21.0
+numpy>=1.24.0  # If you are using NumPy
+pandas>=1.5.0 
